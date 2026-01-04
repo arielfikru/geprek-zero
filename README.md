@@ -14,3 +14,5 @@ Aplikasi menu digital untuk Geprek Zone Zero - Warung Geprek dengan tema gaming.
    `npm install`
 2. Run the app:
    `npm run dev`
+
+Cek
