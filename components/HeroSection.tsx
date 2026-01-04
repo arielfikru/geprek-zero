@@ -83,7 +83,7 @@ const HeroSection: React.FC = () => {
         {/* Main Image */}
         <div className="relative z-10 w-full h-full max-w-[300px] md:max-w-none mx-auto">
             <img 
-                src="https://picsum.photos/600/800" 
+                src="/original.jpg" 
                 alt="Ayam Geprek Hero" 
                 className="w-full h-full object-cover rounded-lg transform -skew-x-6 border-4 border-white shadow-[10px_10px_0px_#ccff00]"
                 style={{ clipPath: 'polygon(10% 0, 100% 0, 100% 85%, 90% 100%, 0 100%, 0 15%)' }}
